@@ -1,0 +1,2 @@
+# bugbot
+run to vps
